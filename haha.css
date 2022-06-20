@@ -1,0 +1,37 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+h1{
+    color:pink;
+    font-size: 70px;
+    display: block;
+    position: absolute;
+
+}
+.app{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.buttongroup{
+    margin-top: 180px;
+
+}
+button{
+    position:absolute;
+    display: flex;
+    cursor: pointer;
+    margin: 10px 40px;
+    padding: 20px 15px;
+    background-color: rgb(146, 98, 98);
+    border: none;
+}
+.button--no{
+    left: 48%;
+}
+#button--yes{
+    left: 40%;
+
+}
