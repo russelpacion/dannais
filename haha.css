@@ -35,6 +35,6 @@ button{
     right: 50%;
 }
 .button--yes{
-    left: 0px;
+    margin: 0px;
     
 }
