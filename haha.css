@@ -29,12 +29,14 @@ button{
     margin: 0px 20px;
     padding: 10px 30px;
     background-color: white;
-    border: none;
+    
 }
 .button--no{
     left: 50%;
+    
 }
 .button--yes{
-    left: 0%;
+    position: absolute;
+    left:0%
     
 }
