@@ -32,12 +32,12 @@ button{
     
 }
 .button--no{
-    position: absolute;
+   
     right: 50%;
     
 }
 .button--yes{
-    position: absolute;
+    
     left:50%;
     
 }
