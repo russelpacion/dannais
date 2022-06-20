@@ -32,7 +32,7 @@ button{
     border: none;
 }
 .button--no{
-    left: 0%;
+    left: 50%;
 }
 .button--yes{
     left: 50%;
