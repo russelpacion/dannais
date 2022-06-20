@@ -33,11 +33,11 @@ button{
 }
 .button--no{
     position: absolute;
-    left: 50%;
+    right: 50%;
     
 }
 .button--yes{
     position: absolute;
-    left:0px;
+    left:50%;
     
 }
