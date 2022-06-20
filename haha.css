@@ -27,14 +27,14 @@ button{
     display:flex;
     cursor: pointer;
     margin: 10px 40px;
-    padding: 20px -2px;
+    padding: 20px 30px;
     background-color: rgb(146, 98, 98);
     border: none;
 }
 .button--no{
-    left: 45%;
+    left: 50%;
 }
-#button--yes{
-    left: 150px;
+.button--yes{
+    left: 100px;
     
 }
