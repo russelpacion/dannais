@@ -38,6 +38,6 @@ button{
 }
 .button--yes{
     position: absolute;
-    left:0px;
+    left:50%;
     
 }
