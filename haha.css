@@ -4,7 +4,7 @@ html{
 }
 h1{
     color:pink;
-    font-size: 70px;
+    font-size: 40px;
     display: block;
     position: absolute;
 
@@ -29,9 +29,9 @@ button{
     border: none;
 }
 .button--no{
-    left: 48%;
+    left: 40%;
 }
 #button--yes{
-    left: 40%;
+    left: 20%;
 
 }
