@@ -23,7 +23,7 @@ h1{
 
 }
 button{
-    position:relative;
+    position:absolute;
     display:inline-flex;
     cursor: pointer;
     margin: 0px 20px;
@@ -32,12 +32,12 @@ button{
     
 }
 .button--no{
-    position: absolute;
-    right: 50%;
+    
+    left: 50%;
     
 }
 .button--yes{
-    position: absolute;
-    right:90px;
+    
+    right:50%;
     
 }
