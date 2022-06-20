@@ -19,7 +19,7 @@ h1{
     margin: 25vh 25vw;
 }
 .buttongroup{
-    margin-top: 150px;
+    margin-top: 90px;
 
 }
 button{
@@ -32,9 +32,9 @@ button{
     border: none;
 }
 .button--no{
-    right: 50%;
+    left: 50%;
 }
 .button--yes{
-    left:;
+    left: 300px;
     
 }
