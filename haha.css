@@ -24,7 +24,7 @@ h1{
 }
 button{
     position:relative;
-    display:flex;
+    display:inline-flex;
     cursor: pointer;
     margin: 0px 20px;
     padding: 10px 30px;
@@ -33,6 +33,7 @@ button{
 }
 .button--no{
     left: 50%;
+    position: absolute;
     
 }
 .button--yes{
