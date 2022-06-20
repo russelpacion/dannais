@@ -19,23 +19,22 @@ h1{
     margin: 25vh 25vw;
 }
 .buttongroup{
-    margin-top:150px;
+    margin-top: 150px;
 
 }
 button{
     position:absolute;
     display:flex;
     cursor: pointer;
-    margin: 10px 20px;
+    margin: 10px 40px;
     padding: 20px 30px;
     background-color: rgb(146, 98, 98);
     border: none;
 }
 .button--no{
-    right: 0%;
+    right: 50%;
 }
 .button--yes{
-    left: 50%;
-
+    left:;
     
 }
